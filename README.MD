@@ -10,3 +10,6 @@ I organice the Web-Tier architecture in three modules:
     Autoscaling - Load balancer, EC2 autoscaling group, and launch template resources.
 
 The namespace variable is a project identifier.
+
+![image](https://user-images.githubusercontent.com/19356065/205511343-d130f261-419e-46da-b280-5f5526d085f1.png)
+
